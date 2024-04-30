@@ -1,0 +1,23 @@
+table{
+ border-collapse: collapse;
+ width: 100%;
+ margin: 10%;
+}
+th,td{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid burlywood;
+    font-size: xx-large;
+    
+}
+tr:nth-child(even){
+    background-color: rgb(217, 93, 174);
+}
+tr :hover{
+    background-color: rgb(192, 170, 170);
+}
+header{
+    font-size: xx-large;
+    text-align: center;
+    text-decoration-line: underline;
+}

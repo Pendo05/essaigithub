@@ -1,0 +1,12 @@
+quelques balises HTML
+<head>
+<meta charset= "utf-8">
+<title> pour le titre 
+<body> pour le corps du document
+<h1...h6> afficher le texte en fonction des tailles
+<p> balise de paragraphe
+<b/> pour revenir a la ligne
+<ul> et <li> pour faire des listes non ordonnée
+<ol> et <li> pour des listes non ordonnée
+    
+
